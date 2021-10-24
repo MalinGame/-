@@ -1,6 +1,6 @@
-/* Header */
+
 header, footer {
- background-color: #38b6ff;
+ background-color: #38b6ff
 
 }
 
@@ -31,7 +31,4 @@ nav li.active, nav li.active:before {
     border-radius: 5px;
 }
 
-footer {
-  background-color: #38b6ff;
 
-}
